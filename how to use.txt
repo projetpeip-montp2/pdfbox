@@ -1,0 +1,6 @@
+exemple:
+java -jar cheminDuJar PDFToImage cheminDuPdf
+   
+Pour plus d'information, voir la page suivante:
+http://pdfbox.apache.org/commandlineutilities/PDFToImage.html
+
